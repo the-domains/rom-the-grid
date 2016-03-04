@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Romää the Grid]]></title>
         <description><![CDATA[Romää the Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rom-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 08:04:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 08:08:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rom-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Batman]]></title>
+            <description><![CDATA[<article><h1>Batman</h1><p>Warner Bros. 2016 marks a new era for the "Batman" franchise. Ben Affleck will take on the role as Gotham's defender in "Batman v Superman" and Jared Leto will debut as The Joker in "Suicide Squad" out later this summer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16f47e0a45bdc2aa438af34b0dffac61088469fa.png"></article>]]></description>
+            <link>https://thegrid.ai/rom-the-grid/batman/index.html</link>
+            <guid isPermaLink="false">96ca5be9-f957-4935-ab6f-0f60dbe177c5</guid>
+            <pubDate>Fri, 04 Mar 2016 08:08:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WebDesign]]></title>
             <description><![CDATA[<article><h1>WebDesign</h1><p>houm-peitsch.ch - professionelles WebDesign zu erschwinglichen Preisen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a752bb9b56b82cac13c773cb302de3d83a426353.png"></article>]]></description>
-            <link>undefinedwebdesign/index.html</link>
+            <link>https://thegrid.ai/rom-the-grid/webdesign/index.html</link>
             <guid isPermaLink="false">a7e092f1-0ecc-4981-90e6-b366ecda3803</guid>
             <pubDate>Fri, 04 Mar 2016 08:04:53 GMT</pubDate>
         </item>
